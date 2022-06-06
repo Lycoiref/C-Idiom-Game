@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Program/CFiles/HomeWork/Idioms_Game/Canvas.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+windows.h
+-
+CountTime.c
+E:/Program/CFiles/HomeWork/Idioms_Game/CountTime.c
+
+E:/Program/CFiles/HomeWork/Idioms_Game/CountTime.c
+time.h
+-
+
+E:/Program/CFiles/HomeWork/Idioms_Game/GenerateQuestionList.c
+stdio.h
+-
+stdlib.h
+-
+data.c
+E:/Program/CFiles/HomeWork/Idioms_Game/data.c
+time.h
+-
+
+E:/Program/CFiles/HomeWork/Idioms_Game/data.c
+
+E:/Program/CFiles/HomeWork/Idioms_Game/main.c
+stdio.h
+-
+pthread.h
+-
+Canvas.c
+E:/Program/CFiles/HomeWork/Idioms_Game/Canvas.c
+GenerateQuestionList.c
+E:/Program/CFiles/HomeWork/Idioms_Game/GenerateQuestionList.c
+

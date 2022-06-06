@@ -1,0 +1,3 @@
+E:/Program/CFiles/HomeWork/Idioms_Game/cmake-build-debug/CMakeFiles/Idioms_Game.dir
+E:/Program/CFiles/HomeWork/Idioms_Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Program/CFiles/HomeWork/Idioms_Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
